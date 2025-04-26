@@ -27,4 +27,4 @@ Me apasiona resolver problemas complejos, diseñando soluciones tecnológicas in
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeoleaa&show_icons=true&theme=dark)
 
 #### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeoleaa&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeoleaa&layout=compact&theme=dark) 
