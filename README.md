@@ -2,18 +2,18 @@
   
   # ¡Hola, soy Jorge Olea! 👋
   
-  ### 🚀 Desarrollador de Aplicaciones Web | Full Stack Junior
+  ### 🚀 Desarrollador Web Full Stack
   
   ---
   
   <p align="left">
-    ¡Bienvenido a mi perfil! Soy estudiante de <b>Desarrollo de Aplicaciones Web (DAW)</b>, actualmente en periodo de prácticas. Me especializo en crear experiencias digitales fluidas y funcionales. Mi pasión es transformar problemas complejos en código limpio y eficiente.
+    ¡Bienvenido a mi perfil! Soy <b>Graduado con Matrícula de Honor</b> en Desarrollo de Aplicaciones Web (DAW). Me apasiona transformar problemas complejos en soluciones tecnológicas eficientes y escalables.
     <br><br>
-    🔭 <b>Actualmente trabajando en:</b> Mejora de habilidades Full Stack y arquitectura de software.
+    💼 <b>Actualmente:</b> Trabajo como Desarrollador Web en <b>IgmWeb S.L.</b>, aplicando soluciones reales en entornos de producción.
     <br>
-    🌱 <b>Aprendiendo:</b> Nuevos patrones de diseño y optimización de rendimiento.
+    🌱 <b>Enfoque continuo:</b> Mejora de arquitectura de software, Clean Code y rendimiento web.
     <br>
-    ⚡ <b>Dato curioso:</b> Siempre busco la forma de automatizar tareas repetitivas.
+    ⚡ <b>Sobre mí:</b> Combino la excelencia técnica académica con la experiencia práctica del mundo laboral.
   </p>
 
   ---
@@ -58,7 +58,7 @@
 
   <br>
 
-  ## 📫 ¡Conectemos!
+  ## 📫 Contacto
 
   <p align="center">
     <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
