@@ -23,6 +23,7 @@ learning   Spring Boot · Docker
 ### Selected work
 
 **[The Golden Book](https://github.com/jorgeoleaa/thegoldenbook-rest-api)**
+
 A platform for selling new and antique books, built as a suite: REST API, web app, SPA, mobile and desktop clients over a shared MySQL database. Originally Java EE with JDBC; now being rebuilt with Spring Boot.
 
 ### Elsewhere
