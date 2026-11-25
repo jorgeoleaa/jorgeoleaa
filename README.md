@@ -34,4 +34,4 @@ A platform for selling new and antique books, built end to end as a suite of app
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/jorge-olea-82069532a) · [Email](mailto:jorgeoleacasanova@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jorgeolea) · [Email](mailto:jorgeoleacasanova@gmail.com)
