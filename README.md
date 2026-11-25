@@ -8,23 +8,29 @@ Alongside work, I'm studying a BSc in Computer Engineering at UOC.
 
 ### Now
 
-- Rebuilding **[The Golden Book](https://github.com/jorgeoleaa/thegoldenbook-rest-api)** as a Spring Boot REST API, containerised with Docker
+- Rebuilding **[The Golden Book](https://github.com/jorgeoleaa/thegoldenbook-rest-api)** API with Spring Boot, containerised with Docker
 - Going deeper into computer architecture, logic and algebra at university
 
 ### Toolbox
 
 ```
-backend    Java · SQL · REST APIs · PHP / Laravel
-frontend   Angular · TypeScript · React · Tailwind CSS
-tooling    Git
+backend    Java · JAX-RS · SQL · Hibernate · Redis · PHP / Laravel
+frontend   Angular · TypeScript · React · React Native · Tailwind CSS
+tooling    Git · Maven · OpenAPI / Swagger
 learning   Spring Boot · Docker
 ```
 
 ### Selected work
 
-**[The Golden Book](https://github.com/jorgeoleaa/thegoldenbook-rest-api)**
+**The Golden Book**
 
-A platform for selling new and antique books, built as a suite: REST API, web app, SPA, mobile and desktop clients over a shared MySQL database. Originally Java EE with JDBC; now being rebuilt with Spring Boot.
+A platform for selling new and antique books, built end to end as a suite of applications around one shared core:
+
+- **[REST API](https://github.com/jorgeoleaa/thegoldenbook-rest-api)**: JAX-RS (Jersey), Swagger docs, per-client rate limiting with Bucket4j and Redis caching
+- **[Middleware](https://github.com/jorgeoleaa/thegoldenbook-middleware)**: shared business and data-access layer with JDBC, Hibernate and MySQL
+- **[Web SPA](https://github.com/jorgeoleaa/thegoldenbook-spa)**: React, TypeScript and Material UI, with Google sign-in
+- **[Mobile app](https://github.com/jorgeoleaa/thegoldenbook-mobile)**: React Native with Expo
+- **[Web store](https://github.com/jorgeoleaa/thegoldenbook-web)** and **[back-office](https://github.com/jorgeoleaa/thegoldenbook-desktop)**: Servlets/JSP and Java Swing
 
 ### Elsewhere
 
