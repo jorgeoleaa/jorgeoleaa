@@ -14,8 +14,8 @@ Alongside work, I'm studying a BSc in Computer Engineering at UOC.
 ### Toolbox
 
 ```
-backend    Java · JAX-RS · SQL · Hibernate · Redis · PHP / Laravel
-frontend   Angular · TypeScript · React · React Native · Tailwind CSS
+backend    Java · JAX-RS · SQL · JDBC · Redis · PHP / Laravel
+frontend   Angular · TypeScript · React · Tailwind CSS
 tooling    Git · Maven · OpenAPI / Swagger
 learning   Spring Boot · Docker
 ```
@@ -27,9 +27,9 @@ learning   Spring Boot · Docker
 A platform for selling new and antique books, built end to end as a suite of applications around one shared core:
 
 - **[REST API](https://github.com/jorgeoleaa/thegoldenbook-rest-api)**: JAX-RS (Jersey), Swagger docs, per-client rate limiting with Bucket4j and Redis caching
-- **[Middleware](https://github.com/jorgeoleaa/thegoldenbook-middleware)**: shared business and data-access layer with JDBC, Hibernate and MySQL
+- **[Middleware](https://github.com/jorgeoleaa/thegoldenbook-middleware)**: shared business and data-access layer with JDBC and MySQL
 - **[Web SPA](https://github.com/jorgeoleaa/thegoldenbook-spa)**: React, TypeScript and Material UI, with Google sign-in
-- **[Mobile app](https://github.com/jorgeoleaa/thegoldenbook-mobile)**: React Native with Expo
+- **[Mobile app](https://github.com/jorgeoleaa/thegoldenbook-mobile)**: React Native with Expo (early stage)
 - **[Web store](https://github.com/jorgeoleaa/thegoldenbook-web)** and **[back-office](https://github.com/jorgeoleaa/thegoldenbook-desktop)**: Servlets/JSP and Java Swing
 
 ### Elsewhere
