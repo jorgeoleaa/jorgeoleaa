@@ -32,6 +32,10 @@ A platform for selling new and antique books, built end to end as a suite of app
 - **[Mobile app](https://github.com/jorgeoleaa/thegoldenbook-mobile)**: React Native with Expo (early stage)
 - **[Web store](https://github.com/jorgeoleaa/thegoldenbook-web)** and **[back-office](https://github.com/jorgeoleaa/thegoldenbook-desktop)**: Servlets/JSP and Java Swing
 
+**[Clínica Marta Sampil](https://github.com/jorgeoleaa/clinicamartasampil-spa)**
+
+Website for an ophthalmology clinic in Galicia, built for a real client: React 19, TypeScript, React Router and Tailwind CSS, with tests (Vitest), accessibility linting and CI on GitHub Actions.
+
 ### Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/jorgeolea) · [Email](mailto:jorgeoleacasanova@gmail.com)
